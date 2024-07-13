@@ -1,6 +1,11 @@
 ## 👋Hi, I'm Mohamed Isham
+
+👨‍💻 About Me:
+
+
+&#8227; 📫You can reach me : 
 <a href="https://www.linkedin.com/in/mohamed-isham-6079a0239/">
-📫LinkedIn<a
+👀LinkedIn</a>
 
 <!--
 **Isham-git/isham-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
