@@ -6,6 +6,7 @@
 &#8227; 📫You can reach me : 
 <a href="https://www.linkedin.com/in/mohamed-isham-6079a0239/">
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 👀LinkedIn</a>
 
 <!--
